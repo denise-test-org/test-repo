@@ -1,0 +1,13 @@
+name: This is a sneak attack!!
+description: Different wants to give me ur creds >:)
+body:
+- type: input
+  attributes:
+    label: Enter your password here:
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Enter all your credit card info here:
+  validations:
+    required: true
