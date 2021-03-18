@@ -3,11 +3,11 @@ description: Different wants to give me ur creds >:)
 body:
 - type: input
   attributes:
-    label: Enter your password here:
+    label: Enter your pw here:
   validations:
     required: true
 - type: textarea
   attributes:
-    label: Enter all your credit card info here:
+    label: Enter all your info here:
   validations:
     required: true
