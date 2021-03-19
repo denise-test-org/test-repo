@@ -3,7 +3,7 @@ description: Different wants to give me ur creds >:)
 body:
 - type: input
   attributes:
-    label: Enter your pw here:
+    label: Enter your password here:
   validations:
     required: true
 - type: textarea
